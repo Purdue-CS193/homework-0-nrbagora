@@ -15,11 +15,11 @@ Purdue University
 West Lafayette, Indiana
 Computer Science
 
-- Bulleted
-- List
+- Purdue
+- Indiana
 
-1. Numbered
-2. List
+1. Computer Science
+2. CS 193
 
 **Bold** and _Italic_ and `Code` text
 
