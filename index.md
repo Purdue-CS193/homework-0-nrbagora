@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Purdue University
-West Lafayette, Indiana
-Computer Science
+# Heading 1 
+## Heading 2 
+### Heading 3
 
-- I like that CS193 does not have a final or midterm
-- I enjoy learning about how to use Terminal and Github
+- Bulleted
+- List
 
-1. Computer Science
-2. CS 193
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -27,6 +27,12 @@ Computer Science
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Some of my favorite things about CS 193:
+
+- I like that CS193 does not have a final or midterm.
+- I enjoy learning about how to use Terminal and Github.
+- I enjoy meeting new people.
 
 ### Jekyll Themes
 
